@@ -4,3 +4,4 @@ scipy
 pillow
 opencv-python
 scikit-image
+sklearn
